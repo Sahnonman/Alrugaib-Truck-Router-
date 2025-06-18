@@ -1,0 +1,3 @@
+git add requirements.txt .streamlit/secrets.toml
+git commit -m "Add dependencies list and Streamlit secrets"
+git push
